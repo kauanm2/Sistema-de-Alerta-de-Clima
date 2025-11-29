@@ -1,0 +1,10 @@
+{
+    "notificacoes": [
+        {
+            "sensorId": "sensor-01",
+            "temperatura": 32.5,
+            "umidade": 70,
+            "date": "28/11/2025 15:31:30"
+        }
+    ]
+}
